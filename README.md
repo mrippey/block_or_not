@@ -7,4 +7,6 @@ Script to lookup IPv4 addresses and host names utilizing API's from GreyNoise an
 * dnsdb Python Client  (https://pypi.org/project/dnsdb/)
 * Selenium
 
-
+## Usage
+![alt text][logo]
+[logo]: /Users/m_a_t/Desktop/block_or_not.png

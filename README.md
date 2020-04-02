@@ -10,3 +10,12 @@ Script to lookup IPv4 addresses and host names utilizing API's from GreyNoise an
 ## Usage
 ![alt text](https://github.com/msec1203/block_or_not/blob/master/block_or_not.png)
 
+## Examples
+Output for IPv4 address
+![alt text](https://github.com/msec1203/block_or_not/blob/master/block_or_not_ip.png)
+
+Output for host name
+![alt text](https://github.com/msec1203/block_or_not/blob/master/block_or_not_host.png)
+
+Output for screen shot
+![alt text](https://github.com/msec1203/block_or_not/blob/master/block_or_not_screen.png)

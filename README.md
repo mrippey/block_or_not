@@ -8,5 +8,5 @@ Script to lookup IPv4 addresses and host names utilizing API's from GreyNoise an
 * Selenium
 
 ## Usage
-![Image description] (https://github.com/msec1203/block_or_not/blob/master/block_or_not.png)
+![alt text](https://github.com/msec1203/block_or_not/blob/master/block_or_not.png)
 

@@ -3,7 +3,7 @@ Script to lookup IPv4 addresses and host names utilizing API's from GreyNoise an
 
 ## Requirements
 * Python3
-* Python GreyNoise
+* Python GreyNoise  (https://www.google.com)
 * dnsdb Python Client
 * Selenium
 
